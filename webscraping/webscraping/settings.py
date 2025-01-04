@@ -79,7 +79,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.mysql",
         "NAME": "webscraping_db",
         "USER": "root",
-        "PASSWORD": "Pass@123",
+        "PASSWORD": "test123",
         "HOST": "127.0.0.1",
         "PORT": "3306",
     }
